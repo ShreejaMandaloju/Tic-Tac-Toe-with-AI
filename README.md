@@ -1,4 +1,4 @@
-# Tic Tac Toe AI
+## Tic Tac Toe AI
 
 This is a simple Tic Tac Toe game where:
 - Player X is controlled by user input.
